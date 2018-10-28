@@ -1,0 +1,18 @@
+    {
+        "name"                  :"Theme",
+        "description"           :"Vineyard theme plugin",
+        "namespace"             :"Theme",
+        "author"                :"Michael Haller",
+        "keywords"              : ["theme", "Ceres", "template"],
+        "type"                  :"theme",
+        "require"               : [],
+        "serviceProvider"       :"Theme\\Providers\\ThemeServiceProvider",
+        "dataProviders"         :
+        [
+            {
+                "key"           :"Theme\\Containers\\ThemeContainer",
+                "name"          :"Dark background",
+                "description"   :"Theme Vineyard"
+            }
+        ]
+    }
