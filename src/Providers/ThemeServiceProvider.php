@@ -1,5 +1,5 @@
 <?php
-namespace Theme\Providers;
+namespace Vineyard\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
