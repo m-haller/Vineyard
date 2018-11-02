@@ -1,6 +1,7 @@
     {
         "name"                  :"Vineyard",
         "description"           :"Vineyard theme plugin",
+        "version"               :"0.0.1",
         "namespace"             :"Theme",
         "author"                :"Michael Haller",
         "keywords"              : ["theme", "Ceres", "template"],
@@ -11,7 +12,7 @@
         [
             {
                 "key"           :"Vineyard\\Containers\\ThemeContainer",
-                "name"          :"Dark background",
+                "name"          :"vineyard background",
                 "description"   :"Theme Vineyard"
             }
         ]
