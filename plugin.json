@@ -2,7 +2,7 @@
         "name"                  :"Vineyard",
         "description"           :"Vineyard theme plugin",
         "version"               :"0.0.1",
-        "namespace"             :"Vineyard",
+        "namespace"             :"Theme",
         "author"                :"Michael Haller",
         "keywords"              : ["theme", "Ceres", "template"],
         "type"                  :"theme",
