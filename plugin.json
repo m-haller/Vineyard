@@ -7,7 +7,7 @@
         "keywords"              : ["theme", "Ceres", "template"],
         "type"                  :"theme",
         "require"               : [],
-        "serviceProvider"       :"Vineyard\\Providers\\ThemeServiceProvider",
+        "serviceProvider"       :"Vineyard\\Providers\\VineyardServiceProvider",
         "dataProviders"         :
         [
             {
