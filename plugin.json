@@ -12,7 +12,7 @@
         [
             {
                 "key"           :"Vineyard\\Containers\\VineyardContainer",
-                "name"          :"vineyard background",
+                "name"          :"Stylesheet",
                 "description"   :"Theme Vineyard"
             }
         ]
