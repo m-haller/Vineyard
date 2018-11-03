@@ -11,7 +11,7 @@
         "dataProviders"         :
         [
             {
-                "key"           :"Vineyard\\Containers\\ThemeContainer",
+                "key"           :"Vineyard\\Containers\\VineyardContainer",
                 "name"          :"vineyard background",
                 "description"   :"Theme Vineyard"
             }
