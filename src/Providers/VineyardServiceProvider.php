@@ -11,7 +11,7 @@ class VineyardServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->getApplication()->register(VineyardServiceProvider::class);
+        //$this->getApplication()->register(\Vineyard\Providers\VineyardServiceProvider::class);
     }
 }
 
