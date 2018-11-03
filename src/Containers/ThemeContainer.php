@@ -3,7 +3,7 @@ namespace Vineyard\Containers;
 
 use Plenty\Plugin\Templates\Twig;
 
-class VineyardContainer
+class ThemeContainer
 {
 
     public function call(Twig $twig): string
