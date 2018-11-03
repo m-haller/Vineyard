@@ -7,11 +7,11 @@
         "keywords"              : ["theme", "Ceres", "template"],
         "type"                  :"theme",
         "require"               : [],
-        "serviceProvider"       :"Vineyard\\Providers\\ThemeServiceProvider",
+        "serviceProvider"       :"Theme\\Providers\\ThemeServiceProvider",
         "dataProviders"         :
         [
             {
-                "key"           :"Vineyard\\Containers\\ThemeContainer",
+                "key"           :"Theme\\Containers\\ThemeContainer",
                 "name"          :"Stylesheet",
                 "description"   :"Theme Vineyard"
             }
