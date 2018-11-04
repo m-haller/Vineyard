@@ -1,3 +1,25 @@
 body {
 	background-color: #808080;
 }
+.navbar-brand img {
+	max-height: 5rem;
+}
+@media (min-width:992px) {
+	.brand-wrapper {
+		top: 30%;
+	}
+	#mainNavbarCollapsable ul.mainmenu {
+		color: #bd8500;
+	}
+	.btn-outline-primary:hover {
+		background-color:#bd8500;
+ 		border-color:#bd8500
+	}
+	
+}
+#page-body {
+		background-color:#d5edd5;
+}
+.fa-shopping-cart::before {
+		content:"\f559";
+}

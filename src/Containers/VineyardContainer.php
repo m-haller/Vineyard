@@ -1,9 +1,9 @@
 <?php
-namespace Theme\Containers;
+namespace Vineyard\Containers;
 
 use Plenty\Plugin\Templates\Twig;
 
-class ThemeContainer
+class VineyardContainer
 {
 
     public function call(Twig $twig): string
