@@ -1,7 +1,7 @@
 {
     "name"                  :"Vineyard",
     "description"           :"Vineyard theme plugin",
-    "version"               :"0.0.1a",
+    "version"               :"0.0.1b",
     "namespace"             :"Vineyard",
     "author"                :"Michael Haller",
     "keywords"              : ["plugins", "Vineyard", "template"],
