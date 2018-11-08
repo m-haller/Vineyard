@@ -1,6 +1,6 @@
 <?php
 
-namespace Ceres\Config;
+namespace Vineyard\Config;
 
 use IO\Helper\PluginConfig;
 use IO\Services\ItemSearch\Helper\SortingHelper;

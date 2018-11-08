@@ -1,6 +1,6 @@
 <?php //strict
 
-namespace Ceres\Config;
+namespace Vineyard\Config;
 
 
 class CeresConfig
