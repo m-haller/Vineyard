@@ -11,7 +11,7 @@ class TemplateServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->getApplication()->singleton(CeresConfig::class);
+        //$this->getApplication()->singleton(CeresConfig::class);
     }
 }
 
