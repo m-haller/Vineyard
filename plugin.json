@@ -1,11 +1,11 @@
     {
         "name"                  :"Vineyard",
-        "description"           :"Vineyard theme plugin",
-        "version"               :"0.0.1",
+        "description"           :"Vineyard template plugin",
+        "version"               :"0.0.1a",
         "namespace"             :"Vineyard",
         "author"                :"Michael Haller",
         "keywords"              : ["theme", "Vineyard", "template"],
-        "type"                  :"theme",
+        "type"                  :"template",
         "require"               : [],
         "serviceProvider"       :"Vineyard\\Providers\\VineyardServiceProvider",
         "dataProviders"         :
@@ -13,7 +13,7 @@
             {
                 "key"           :"Vineyard\\Containers\\VineyardContainer",
                 "name"          :"Stylesheet",
-                "description"   :"Theme Vineyard"
+                "description"   :"Template Vineyard"
             }
         ]
     }
