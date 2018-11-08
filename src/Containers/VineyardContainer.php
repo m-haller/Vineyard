@@ -14,6 +14,6 @@ class VineyardContainer
         // p {color: red;}
         // </style>';
         // return '<meta name="author" content="michael">';
-        return $twig->render('Vineyard::content.Vineyard');
+        return $twig->render('Vineyard::Containers.content.Vineyard');
     }
 }

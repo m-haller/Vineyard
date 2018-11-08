@@ -3,7 +3,7 @@ namespace Vineyard\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
-class VineyardServiceProvider extends ServiceProvider
+class TemplateServiceProvider extends ServiceProvider
 {
 
     /**
@@ -11,7 +11,7 @@ class VineyardServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //$this->getApplication()->register(\Vineyard\Providers\VineyardServiceProvider::class);
+        $this->getApplication()->singleton(CeresConfig::class);
     }
 }
 
